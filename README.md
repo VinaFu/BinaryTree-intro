@@ -12,10 +12,10 @@ https://www.youtube.com/watch?app=desktop&v=fAAZixBzIAI
     
     
     
-   depth- first- values： Stack 竖向排序
-      （stack.pop）
-   breadth-first-valües： Queue  横向排列
-      （queue.shift）
+     depth- first- values： Stack 竖向排序 
+        （stack.pop） dfv 参见144.
+     breadth-first-valües： Queue  横向排列
+        （queue.shift） bfv
       
     用法：
       1）查items - tree includes
