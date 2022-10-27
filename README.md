@@ -16,6 +16,9 @@ https://www.youtube.com/watch?app=desktop&v=fAAZixBzIAI
         （stack.pop） dfv 参见144.
      breadth-first-valües： Queue  横向排列
         （queue.shift） bfv
+        
+     DFS: Preorder  | Inorder | Postorder (Depth First Search)
+         left-right |left-leaf-right |bottom-top, left-right 
       
     用法：
       1）查items - tree includes
